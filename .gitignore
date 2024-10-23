@@ -1,0 +1,4 @@
+.env
+/internal/file/result/majuestic_million_ssl_result.csv
+/internal/file/temp/majuestic_million.csv
+ssl-verifier
